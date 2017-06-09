@@ -6,7 +6,7 @@ Bookmarklet: Count the JavaScript HTML DOM Elements (Nodes) on a web page
 
 A bookmarklet that alerts how many JavaScript HTML DOM Elements (Nodes) you have on your page.
 
-<a href="https://wmeredith.github.io/Bookmarklet-for-Counting-DOM-Nodes/" title="Link to Count JavaScript HTML DOM Elements (Nodes) on Page">Get it here.</a>
+<a href="https://wmeredith.github.io/Bookmarklet-Counting-JavaScript-HTML-DOM-Elements-Nodes-/" title="Link to Count JavaScript HTML DOM Elements (Nodes) on Page">Get it here.</a>
 
 
 
