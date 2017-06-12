@@ -1,44 +1,11 @@
-Bookmarklet: Count the JavaScript HTML DOM Elements (Nodes) on a web page
-==============================
-
-<a href="https://wmeredith.github.io/Bookmarklet-Counting-JavaScript-HTML-DOM-Elements-Nodes-/" title="Link to Count JavaScript HTML DOM Elements (Nodes) on Page">Get it here.</a>
-
-
-
-
-<!-- How to use
----------------
-
-### In Firefox
-
-Paste the following code into a web page and open it in a browser,
-then put add the link to your favorites (drag the link in your tool bar).
-
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Count DOM nodes on a page</title>
-</head>
-<body>
-<a href="javascript: (function () {alert(document.getElementsByTagName('*').length); }());">Count DOM nodes of a page: put me in your favorites</a>
-</body>
-</html>
-```
-
-
-
-### In Chrome
-
-In Chrome, click Bookmarks->Bookmark Manager.
-You should see a new tab with the bookmarks and folders listed.
-Select the "Bookmarks Tab" folder on the left.
-Click the "Organize" link, then "Add Page" in the drop down.
-You should see two input fields. ...
-Paste the javascript code below into the second field.
-
+# Count JavaScript HTML DOM Elements (Nodes) on a web page:
 
 ```js
 javascript: (function () {alert(document.getElementsByTagName('*').length); }());
-``` -->
+```
+
+## Bookmarklet
+
+<a href="https://wmeredith.github.io/Bookmarklet-Counting-JavaScript-HTML-DOM-Elements-Nodes-/" title="Link to Count JavaScript HTML DOM Elements (Nodes) on Page">Get the bookmarklet here.</a>
+
+(It's on another page because Markdown doesn't support JS.)
